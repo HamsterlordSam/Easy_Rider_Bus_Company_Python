@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Easy Rider Bus Company/*
+!/Easy Rider Bus Company/task/
+/Easy Rider Bus Company/task/*
+!/Easy Rider Bus Company/task/easyrider
+!/Easy Rider Bus Company/task/easyDB.txt
